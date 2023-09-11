@@ -1,4 +1,7 @@
 ### Olá pessoal 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+My+name+is+Carlos.;Also+known+as+Buiu+:D;Welcome+to+my+github+:P)](https://git.io/typing-svg)
+
+
 
 ### Olá, meu nome é Eduardo Rigo Laviano, estou no terceiro ano do ensino médio, tenho 17 anos e estamos estudando ou ja estudamos diversas linguagens: js, Basic, C#, css, html, sql, ASPNET e pascal. Além de segurança e redes.
 
