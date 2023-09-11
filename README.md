@@ -1,11 +1,12 @@
-### Olá pessoal 👋
+<h1>Olá pessoal 👋</h1>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+My+name+is+Eduardo.;Also+known+as+Laviano+:D;Welcome+to+my+github+:P)](https://git.io/typing-svg)
 
 
+<h2> Olá, meu nome é Eduardo Rigo Laviano, estou no terceiro ano do ensino médio, tenho 17 anos e estamos estudando ou ja estudamos diversas linguagens: js, Basic, C#, css, html, sql, ASPNET e pascal. Além de segurança e redes. </h2>
+<br>
 
-### Olá, meu nome é Eduardo Rigo Laviano, estou no terceiro ano do ensino médio, tenho 17 anos e estamos estudando ou ja estudamos diversas linguagens: js, Basic, C#, css, html, sql, ASPNET e pascal. Além de segurança e redes.
-
-### Gosto muito de escrever, cozinhar, treinar e ver séries. Quero fazer engenharia da computação e trabalhar como engenheiro de software.
+<h3> Gosto muito de escrever, cozinhar, treinar e ver séries. Quero fazer engenharia da computação e trabalhar como engenheiro de software. </h3>
 
 <!--
 **Laviano102/Laviano102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
