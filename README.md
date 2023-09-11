@@ -1,5 +1,5 @@
 ### Olá pessoal 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+My+name+is+Carlos.;Also+known+as+Buiu+:D;Welcome+to+my+github+:P)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+My+name+is+Eduardo.;Also+known+as+Laviano+:D;Welcome+to+my+github+:P)](https://git.io/typing-svg)
 
 
 
