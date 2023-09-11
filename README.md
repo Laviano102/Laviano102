@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá pessoal 👋
+
+### Olá, meu nome é Eduardo Rigo Laviano, estou no terceiro ano do ensino médio, tenho 17 anos e estamos estudando ou ja estudamos diversas linguagens: js, Basic, C#, css, html, sql, ASPNET e pascal. Além de segurança e redes.
+
+### Gosto muito de escrever, cozinhar, treinar e ver séries. Quero fazer engenharia da computação e trabalhar como engenheiro de software.
 
 <!--
 **Laviano102/Laviano102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
